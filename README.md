@@ -1,6 +1,6 @@
 # TD-DFT Review: Photosensitizer Modeling for Photodynamic Therapy
 
-This repository contains a structured literature review of studies applying TD-DFT (Time-Dependent Density Functional Theory) to model the electronic behavior of photosensitizers used in photodynamic therapy (PDT).
+This repository contains a review of studies applying TD-DFT (Time-Dependent Density Functional Theory) to model the electronic behavior of photosensitizers used in photodynamic therapy (PDT).
 
 ## 📁 Contents
 - `photosensitizer_matrix.csv`: Structured matrix of reviewed studies.
