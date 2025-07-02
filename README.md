@@ -28,5 +28,9 @@ This synthesis explores:
 
 ---
 
+Note: This project is theoretical and serves as a scaffold for future simulation development.
+
 ## 🔍 Author
 🔗 [LinkedIn](https://linkedin.com/in/shylett-sonam-anthony-20a40b1b3)
+
+
