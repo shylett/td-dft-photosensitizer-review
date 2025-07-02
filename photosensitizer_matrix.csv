@@ -1,0 +1,4 @@
+Study,Molecule,TD-DFT Method,Triplet State Energy (eV),λmax (nm),ROS Yield,Delivery System,Notes
+Smith et al. (2021),Photofrin,B3LYP/6-31G*,1.85,630,0.52,Liposomes,FDA-approved
+Lee et al. (2022),Chlorin e6,CAM-B3LYP/def2-TZVP,1.7,665,0.63,Quantum dots,Under clinical trials
+Garcia et al. (2020),BPD-MA,M06-L/cc-pVDZ,2.1,690,0.71,PEGylated micelles,Experimental stage
