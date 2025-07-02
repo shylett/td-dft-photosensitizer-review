@@ -29,7 +29,4 @@ This synthesis explores:
 ---
 
 ## 🔍 Author
-**Shylett Sonam Anthony**  
-MSc IHTM (2024), University of Oxford  
-Deep-tech researcher exploring physics-informed therapeutic modeling.  
 🔗 [LinkedIn](https://linkedin.com/in/shylett-sonam-anthony-20a40b1b3)
